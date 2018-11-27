@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "59bdab3c-a554-4f7e-8d7e-f2a12f96acc9",
-            "Value": {
-                "id": "401d9bbe-13a7-4b68-aaf4-fb81e6a4cfab",
-                "resourcePath": "sprites\\spr_Player1\\spr_Player1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5a0693ba-a0ca-4e79-9708-85136401c8b3",
             "Value": {
                 "id": "91539578-5a49-4b28-915b-cb93d10c766c",
