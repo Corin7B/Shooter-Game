@@ -6,7 +6,7 @@ if (place_meeting(x+hsp,y,obj_wall))
 	{
 	x = x + sign(hsp);	
 	}
-	hsp = 0;
+	hsp = -hsp;
 }
 x = x + hsp;
 
